@@ -1,0 +1,11 @@
+# Maintainer: Example Name <example@email.com>
+pkgname=example-meta-package
+pkgver=0.0.1
+pkgrel=1
+pkgdesc="An example description."
+arch=('any')
+url="https://github.com/cezarmathe/example_repository"
+license=('MIT')
+depends=(
+  
+)
